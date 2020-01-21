@@ -1,7 +1,7 @@
 # Example React app with Parcel, Tailwind & Context.
 
 Follow the tutorial here:  
-https://medium.com/p/61d97565ad07/edit
+https://medium.com/@frontendfoo/react-app-parcel-tailwind-context-store-61d97565ad07
 
 Setup
 
