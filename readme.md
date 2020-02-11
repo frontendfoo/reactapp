@@ -20,3 +20,9 @@ Build for production
 ```
 $ npm run build
 ```
+
+Build docker image
+
+```
+$ docker build -t app:[version]
+```
