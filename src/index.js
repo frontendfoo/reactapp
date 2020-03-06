@@ -2,11 +2,11 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import AppContainer from './containers/AppContainer'
 import './index.css'
-import { StoreProvider } from 'store'
+import { Provider } from 'store'
 
 ReactDOM.render(
-  <StoreProvider>
+  <Provider>
     <AppContainer />
-  </StoreProvider>,
+  </Provider>,
   document.getElementById('root')
 )

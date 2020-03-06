@@ -1,7 +1,7 @@
-import makeStore from './makeStore'
+import makeStore from '@thefrontend/contextstore'
 
 const state = {
   message: 'Hello Universe!'
 }
 
-export const { StoreProvider, useStore } = makeStore(state)
+export const { Provider, useStore } = makeStore(state)
